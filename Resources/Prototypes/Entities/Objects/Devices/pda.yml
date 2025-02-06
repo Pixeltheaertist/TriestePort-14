@@ -74,7 +74,7 @@
     prefix: device-address-prefix-console
     savableAddress: false
   - type: WirelessNetworkConnection
-    range: 500
+    range: 999999999999999999999999
   - type: CartridgeLoader
     uiKey: enum.PdaUiKey.Key
     preinstalled:
