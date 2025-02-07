@@ -272,7 +272,7 @@
   name: McGriff
   parent: [SimpleMobBase, StripableInventoryBase]
   id: MobMcGriff
-  description: This dog can tell something smells around here, and that something is CRIME!
+  description: This dog can tell something smells around here, and that something is pure seawater, and CRIME!
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -331,7 +331,7 @@
   name: Paperwork
   parent: MobSloth
   id: MobPaperwork
-  description: Took up a new job sorting books in the library after he got transferred from Space Station 13. He seems to be just as slow at this.
+  description: Took up a new job sorting books in the library after he got transferred to Tridente, He seems to be just as slow at this.
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -534,7 +534,7 @@
   name: Renault
   parent: MobFox
   id: MobFoxRenault
-  description: The captain's trustworthy fox.
+  description: The Overseer's trustworthy fox.
   components:
   - type: InteractionPopup
     successChance: 1
@@ -548,7 +548,7 @@
     - id: FoodMeat
       amount: 3
     - id: Telecrystal5
-      amount: 1
+      amount: 5
   - type: Grammar
     attributes:
       proper: true
